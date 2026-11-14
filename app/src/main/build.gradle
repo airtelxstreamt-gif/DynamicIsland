@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.yourpackage.name'
+    namespace 'com.dynamicisland.name'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.yourpackage.name"
+        applicationId "com.dynamicisland.name"
         minSdk 26
         targetSdk 34
         versionCode 1
